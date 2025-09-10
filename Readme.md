@@ -65,9 +65,15 @@ I'm a passionate Full Stack Developer with hands-on experience delivering modern
 ## 📬 Connect with Me
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/your-profile" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Email-grey?logo=gmail&logoColor=white" alt="Email" /></a>
-  <a href="https://yourportfolio.com" target="_blank"><img src="https://img.shields.io/badge/Portfolio-black?logo=github&logoColor=white" alt="Portfolio" /></a>
+  <a href="https://www.linkedin.com/in/abhishek-kumar-b98a86245" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:abhishek827830@gmail.com">
+    <img src="https://img.shields.io/badge/Email-grey?logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://yourportfolio.com" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-black?logo=github&logoColor=white" alt="Portfolio" />
+  </a>
 </p>
 
 ---
