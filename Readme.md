@@ -78,11 +78,11 @@ I'm a passionate Full Stack Developer with hands-on experience delivering modern
 
 ---
 
-## 📈 GitHub Stats (Optional)
+## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=default" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=default" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=age15abhi&show_icons=true&theme=default" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=age15abhi&layout=compact&theme=default" height="150"/>
 </p>
 
 ---
