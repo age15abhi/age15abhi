@@ -1,40 +1,84 @@
-# Hi there 👋 I'm Prerna Gupta  
+<h1 align="center">👨‍💻 Full Stack Developer</h1>
 
-🚀 Aspiring *Data Engineer* passionate about building data pipelines, working with cloud technologies, and transforming raw data into meaningful insights.  
+<p align="center">
+  <b>1.5+ years of experience building full-stack, scalable, and real-time applications</b><br>
+  <i>Specialized in React.js, Node.js, DevOps, Streaming, APIs & Mobile Wallet Integrations</i>
+</p>
 
-🌱 Currently learning: *SQL, Python, Azure, Data Warehousing*  
-🎯 Goal: To design scalable, reliable, and efficient data engineering solutions  
-💡 Interested in: Big Data, Cloud Platforms, Data Pipelines, and Analytics  
+---
 
-## 🛠 Skills  
+## 🚀 About Me
 
-*Programming:* ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-336791?style=flat&logo=postgresql&logoColor=white)  
+I'm a passionate Full Stack Developer with hands-on experience delivering modern web applications, building real-time systems, and integrating third-party services. I focus on writing clean, scalable code and crafting seamless user experiences.
 
-*Data Tools:* ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/Numpy-013243?style=flat&logo=numpy&logoColor=white)  
+---
 
-*Big Data & Cloud:* ![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat&logo=microsoft-azure&logoColor=white) ![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=flat&logo=databricks&logoColor=white)  
+## 🧠 Key Projects & Contributions
 
-*Version Control:* ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
+### 🔍 Intelligent Search System
+- Built an NLP-powered smart search feature using *NLP.js* for enhanced user experience and semantic recognition.
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Airflow](https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge&logo=apache-airflow&logoColor=white)
+### 📡 Live Streaming Platform
+- Developed a custom live-streaming solution using *Nginx RTMP* with *HLS* and adaptive bitrate support.
 
+### 🐳 Dockerized Deployment Pipeline
+- Containerized a *Node.js* application using *Docker, managing services with **Docker Swarm* for scalable deployment.
 
-## 📊 GitHub Stats  
+### ⚛ Scalable Web Applications
+- Delivered robust full-stack apps using *React.js* and *Node.js*, focusing on performance and maintainability.
 
-![Prerna Gupta's GitHub stats](https://github-readme-stats.vercel.app/api?username=PrernaGupta-08&show_icons=true&theme=tokyonight)  
+### 💳 Stripe-Based Subscription Module
+- Integrated *Stripe API* to enable billing, auto-renewals, and dunning/revenue recovery workflows.
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=PrernaGupta-08&layout=compact&theme=tokyonight)   
+### 📊 Real-Time Admin Dashboard
+- Built a real-time panel for *Project AtoZ* using *WebSockets*, allowing live tracking and instant stakeholder alerts.
 
+### 🎟 Digital Wallet Integration
+- Developed a full loyalty system for *Project Stampin, supporting **Apple Wallet* and *Google Wallet* with QR-based tracking, push notifications, and dynamic reward assignment.
 
-### Where to find me
+### 📲 Push Notification System
+- Connected to *Apple Push Notification service (APNs)* to ensure reliable, real-time updates for digital passes.
 
-[![GitHub](https://img.shields.io/badge/GITHUB-black?logo=github&style=for-the-badge)](https://github.com/PrernaGupta-08)  
-[![LinkedIn](https://img.shields.io/badge/LINKEDIN-0077B5?logo=linkedin&style=for-the-badge)](https://linkedin.com/in/linkedin.com/in/prerna-gupta-2605a923b)  
-[![Gmail](https://img.shields.io/badge/GMAIL-D14836?logo=gmail&style=for-the-badge)](mailto:prernagupta657@gmail.com)
+---
 
+## 🛠 Tech Stack
 
-## 📫 Connect with Me  
+<div align="left">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/YOUR-LINK/)  
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:your.email@gmail.com)
+| Area            | Technologies |
+|-----------------|--------------|
+| *Languages*   | JavaScript (ES6+), HTML, CSS |
+| *Frontend*    | React.js, Redux |
+| *Backend*     | Node.js, Express.js |
+| *DevOps*      | Docker, Docker Swarm, Nginx |
+| *Streaming*   | RTMP, HLS, Nginx RTMP |
+| *Real-Time*   | WebSockets, Socket.IO |
+| *Payments*    | Stripe API |
+| *Mobile Wallets* | Apple Wallet, Google Wallet |
+| *Notifications* | APNs (Apple Push Notification Service) |
+| *Database*    | MongoDB, PostgreSQL (if used) |
+
+</div>
+
+---
+
+## 📬 Connect with Me
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/your-profile" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Email-grey?logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://yourportfolio.com" target="_blank"><img src="https://img.shields.io/badge/Portfolio-black?logo=github&logoColor=white" alt="Portfolio" /></a>
+</p>
+
+---
+
+## 📈 GitHub Stats (Optional)
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=default" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=default" height="150"/>
+</p>
+
+---
+
+> 💡 "Strive for clean code, scalable architecture, and meaningful user experiences."
